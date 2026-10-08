@@ -12,21 +12,17 @@ This repository contains plankton icons drawn by Dr. Stephanie I. Anderson. You 
 
 ## License
 
-<span class="tool-identifier">CC BY-SA 4.0</span>
+<span class="tool-identifier">[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span>
               
 <h3 id="rights">You are free to:</h2>
           <ol>
             <li>
               <strong>Share</strong> — copy and redistribute the material in any
-              medium or format for any purpose.
+              medium or format.
             </li>
             <li>
               <strong>Adapt</strong> — remix, transform, and build upon the
-              material for any purpose.
-            </li>
-            <li>
-              The licensor cannot revoke these freedoms as long as you follow
-              the license terms.
+              material.
             </li>
           </ol>
           <h3 id="terms">Under the following terms:</h2>
